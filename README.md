@@ -1,7 +1,7 @@
-# macro-calco                     #
-# Macronutrient calculator in C   #
-# Faisal Alnahhas                 #
-# # # # # # # # # # # # # # # # # #
+# macro-calco                     
+Macronutrient calculator in C   
+Faisal Alnahhas
+
 
 
 In order to run MacroCalco after you unzip this folder, please do the following:
